@@ -25,16 +25,16 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 ## My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3632058517) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
-2. 🚀 Published release [Android release of Tic tac Toe 🎉](https://github.com/Yug2920/Tic--TAC--TOE-HTML-/releases/tag/Android_release) in [Yug2920/Tic--TAC--TOE-HTML-](https://github.com/Yug2920/Tic--TAC--TOE-HTML-)
-3. 🚀 Published release [Apk file of Expense Tracker ](https://github.com/Yug2920/Expense-Tracker/releases/tag/Apk_file) in [Yug2920/Expense-Tracker](https://github.com/Yug2920/Expense-Tracker)
-4. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3568004163) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
-5. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3568003975) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
-6. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
-7. 🗣 Commented on [#6](https://github.com/TheSnappy-Dev/Resume-Generator/issues/6#issuecomment-3566723413) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
-8. 💪 Opened PR [#2](undefined) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
-9. 🗣 Commented on [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1#issuecomment-3516958293) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
-10. ❗ Opened issue [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
+1. ❌ Merged PR [#9](undefined) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
+2. 💪 Opened PR [#9](undefined) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
+3. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3632058517) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
+4. 🚀 Published release [Android release of Tic tac Toe 🎉](https://github.com/Yug2920/Tic--TAC--TOE-HTML-/releases/tag/Android_release) in [Yug2920/Tic--TAC--TOE-HTML-](https://github.com/Yug2920/Tic--TAC--TOE-HTML-)
+5. 🚀 Published release [Apk file of Expense Tracker ](https://github.com/Yug2920/Expense-Tracker/releases/tag/Apk_file) in [Yug2920/Expense-Tracker](https://github.com/Yug2920/Expense-Tracker)
+6. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3568004163) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
+7. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3568003975) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
+8. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
+9. 🗣 Commented on [#6](https://github.com/TheSnappy-Dev/Resume-Generator/issues/6#issuecomment-3566723413) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
+10. 💪 Opened PR [#2](undefined) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 ## 📫 How to Reach Me
