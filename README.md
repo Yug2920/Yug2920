@@ -25,16 +25,16 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 ## My Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/snack-game/issues/1) in [suryatiwari8462-web/snack-game](https://github.com/suryatiwari8462-web/snack-game)
-2. 🗣 Commented on [#27](https://github.com/Drive-for-Java/support/issues/27#issuecomment-3688693331) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-3. ❗ Opened issue [#27](https://github.com/Drive-for-Java/support/issues/27) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
-4. 🔒 Closed issue [#1](https://github.com/suryatiwari8462-web/suryatiwari8462-web/issues/1) in [suryatiwari8462-web/suryatiwari8462-web](https://github.com/suryatiwari8462-web/suryatiwari8462-web)
-5. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/suryatiwari8462-web/issues/1) in [suryatiwari8462-web/suryatiwari8462-web](https://github.com/suryatiwari8462-web/suryatiwari8462-web)
-6. 🔒 Closed issue [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
-7. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1#issuecomment-3678968750) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
-8. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
-9. 🗣 Commented on [#8](https://github.com/TheSnappy-Dev/Resume-Generator/issues/8#issuecomment-3670323921) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
-10. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-/issues/1#issuecomment-3648866916) in [suryatiwari8462-web/Tic-Tac-Toe-GAME-](https://github.com/suryatiwari8462-web/Tic-Tac-Toe-GAME-)
+1. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/snack-game/issues/1#issuecomment-3758986293) in [suryatiwari8462-web/snack-game](https://github.com/suryatiwari8462-web/snack-game)
+2. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/snack-game/issues/1) in [suryatiwari8462-web/snack-game](https://github.com/suryatiwari8462-web/snack-game)
+3. 🗣 Commented on [#27](https://github.com/Drive-for-Java/support/issues/27#issuecomment-3688693331) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+4. ❗ Opened issue [#27](https://github.com/Drive-for-Java/support/issues/27) in [Drive-for-Java/support](https://github.com/Drive-for-Java/support)
+5. 🔒 Closed issue [#1](https://github.com/suryatiwari8462-web/suryatiwari8462-web/issues/1) in [suryatiwari8462-web/suryatiwari8462-web](https://github.com/suryatiwari8462-web/suryatiwari8462-web)
+6. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/suryatiwari8462-web/issues/1) in [suryatiwari8462-web/suryatiwari8462-web](https://github.com/suryatiwari8462-web/suryatiwari8462-web)
+7. 🔒 Closed issue [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
+8. 🗣 Commented on [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1#issuecomment-3678968750) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
+9. ❗ Opened issue [#1](https://github.com/suryatiwari8462-web/Simple-Calculator-/issues/1) in [suryatiwari8462-web/Simple-Calculator-](https://github.com/suryatiwari8462-web/Simple-Calculator-)
+10. 🗣 Commented on [#8](https://github.com/TheSnappy-Dev/Resume-Generator/issues/8#issuecomment-3670323921) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
 <!--END_SECTION:activity-->
 
 ## 📫 How to Reach Me
