@@ -1,7 +1,7 @@
 ## HELLO GUYS TO MY PROFILE 👋# 👋 
 
 Welcome to my GitHub profile!  
-I'm a school student passionate about learning vibe programming and web development.Here, you'll find my projects and experiments as I learn and grow as a vibe developer.
+I'm a  passionate about learning vibe programming and web development.Here, you'll find my projects and experiments as I learn and grow as a vibe developer.
 
 ## 🌱 What I'm Learning
 
